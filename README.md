@@ -1,4 +1,4 @@
-#Notepad Application 
+# Notepad Application 
 This project is a Python-based Notepad application developed to demonstrate the use of various libraries for GUI creation, file handling, and efficient data management.
 
 Key Features:
